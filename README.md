@@ -1,1 +1,1 @@
-# Hospital-management-system
+# HospitalManagement-MERN
